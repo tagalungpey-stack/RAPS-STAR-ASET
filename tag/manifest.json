@@ -1,0 +1,80 @@
+[
+ {
+  "id": "tag_official_01",
+  "name": "Tag Official 01",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_01.png"
+ },
+ {
+  "id": "tag_official_02",
+  "name": "Tag Official 02",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_02.png"
+ },
+ {
+  "id": "tag_official_03",
+  "name": "Tag Official 03",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_03.png"
+ },
+ {
+  "id": "tag_official_04",
+  "name": "Tag Official 04",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_04.png"
+ },
+ {
+  "id": "tag_official_05",
+  "name": "Tag Official 05",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_05.png"
+ },
+ {
+  "id": "tag_official_06",
+  "name": "Tag Official 06",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_06.png"
+ },
+ {
+  "id": "tag_official_07",
+  "name": "Tag Official 07",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_07.png"
+ },
+ {
+  "id": "tag_official_08",
+  "name": "Tag Official 08",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_08.png"
+ },
+ {
+  "id": "tag_official_09",
+  "name": "Tag Official 09",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_09.png"
+ },
+ {
+  "id": "tag_official_10",
+  "name": "Tag Official 10",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_10.png"
+ },
+ {
+  "id": "tag_official_11",
+  "name": "Tag Official 11",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_11.png"
+ },
+ {
+  "id": "tag_official_12",
+  "name": "Tag Official 12",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_12.png"
+ },
+ {
+  "id": "tag_official_13",
+  "name": "Tag Official 13",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_13.png"
+ }
+]
