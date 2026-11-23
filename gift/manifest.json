@@ -82,5 +82,17 @@
   "cashback": false,
   "cbRate": 0,
   "cbPrice": 0
+ },
+ {
+  "id": "gift_iloveyou",
+  "name": "I Love You",
+  "emoji": "\u2764\ufe0f",
+  "icon": "",
+  "price": 50000,
+  "mediaUrl": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/gift/gift_iloveyou.svga",
+  "mediaType": "svga",
+  "cashback": false,
+  "cbRate": 0,
+  "cbPrice": 0
  }
 ]
