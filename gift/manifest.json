@@ -1,0 +1,38 @@
+[
+ {
+  "id": "gift_box",
+  "name": "Gift Box",
+  "emoji": "\ud83c\udf81",
+  "icon": "",
+  "price": 500,
+  "mediaUrl": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/gift/gift_box.svga",
+  "mediaType": "svga",
+  "cashback": false,
+  "cbRate": 0,
+  "cbPrice": 0
+ },
+ {
+  "id": "gift_love_car",
+  "name": "Love Car",
+  "emoji": "\ud83d\ude97",
+  "icon": "",
+  "price": 2000,
+  "mediaUrl": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/gift/gift_love_car.svga",
+  "mediaType": "svga",
+  "cashback": false,
+  "cbRate": 0,
+  "cbPrice": 0
+ },
+ {
+  "id": "gift_scanner",
+  "name": "Scanner Gift",
+  "emoji": "\ud83d\udd0d",
+  "icon": "",
+  "price": 5000,
+  "mediaUrl": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/gift/gift_scanner.svga",
+  "mediaType": "svga",
+  "cashback": false,
+  "cbRate": 0,
+  "cbPrice": 0
+ }
+]
