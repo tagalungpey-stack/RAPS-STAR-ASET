@@ -34,5 +34,17 @@
   "cashback": false,
   "cbRate": 0,
   "cbPrice": 0
+ },
+ {
+  "id": "gift_starlight",
+  "name": "Starlight",
+  "emoji": "\u2728",
+  "icon": "",
+  "price": 10000,
+  "mediaUrl": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/gift/gift_starlight.svga",
+  "mediaType": "svga",
+  "cashback": false,
+  "cbRate": 0,
+  "cbPrice": 0
  }
 ]
