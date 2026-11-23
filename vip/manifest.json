@@ -1,0 +1,182 @@
+[
+ {
+  "n": 1,
+  "slot": "frame",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip1_frame_frame_svip1.svga"
+ },
+ {
+  "n": 2,
+  "slot": "frame",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip2_frame_frame_svip2.svga"
+ },
+ {
+  "n": 3,
+  "slot": "frame",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip3_frame_frame_svip3.svga"
+ },
+ {
+  "n": 1,
+  "slot": "entry",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip1_entry_svip1_banner_efek_masuk.svga"
+ },
+ {
+  "n": 1,
+  "slot": "cardbg",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip1_cardbg_svip1_profil_card_image.svga"
+ },
+ {
+  "n": 2,
+  "slot": "entry",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip2_entry_svip2_banner_efek_masuk.svga"
+ },
+ {
+  "n": 2,
+  "slot": "cardbg",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip2_cardbg_svip2_profil_card_image.svga"
+ },
+ {
+  "n": 3,
+  "slot": "entry",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip3_entry_svip3_banner_efek_masuk.svga"
+ },
+ {
+  "n": 3,
+  "slot": "cardbg",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip3_cardbg_svip3_profil_card_image.svga"
+ },
+ {
+  "n": 5,
+  "slot": "entry",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip5_entry_svip5_banner_efek_masuk.svga"
+ },
+ {
+  "n": 6,
+  "slot": "entry",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip6_entry_svip6_banner_efek_masuk.svga"
+ },
+ {
+  "n": 7,
+  "slot": "entry",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip7_entry_svip7_banner_efek_masuk.svga"
+ },
+ {
+  "n": 8,
+  "slot": "entry",
+  "kind": "svga",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip8_entry_svip8_banner_efek_masuk.svga"
+ },
+ {
+  "n": 1,
+  "slot": "medal",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip1_medal_vip1_medal_mw6iayrg.webp"
+ },
+ {
+  "n": 2,
+  "slot": "medal",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip2_medal_vip2_medal_mw6ichtn.webp"
+ },
+ {
+  "n": 2,
+  "slot": "title",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip2_title_vip2_title_mw6ivx6n.png"
+ },
+ {
+  "n": 3,
+  "slot": "medal",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip3_medal_vip3_medal_mw6iezj6.webp"
+ },
+ {
+  "n": 3,
+  "slot": "title",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip3_title_vip3_title_mw6ivd82.webp"
+ },
+ {
+  "n": 4,
+  "slot": "medal",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip4_medal_vip4_medal_mw6iho6u.webp"
+ },
+ {
+  "n": 4,
+  "slot": "title",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip4_title_vip4_title_mw6iun0x.png"
+ },
+ {
+  "n": 5,
+  "slot": "medal",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip5_medal_vip5_medal_mw6iiywh.webp"
+ },
+ {
+  "n": 5,
+  "slot": "title",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip5_title_vip5_title_mw6itao1.webp"
+ },
+ {
+  "n": 6,
+  "slot": "medal",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip6_medal_vip6_medal_mw6ij9u4.webp"
+ },
+ {
+  "n": 6,
+  "slot": "title",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip6_title_vip6_title_mw6iortx.png"
+ },
+ {
+  "n": 7,
+  "slot": "medal",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip7_medal_vip7_medal_mw6ijv4c.webp"
+ },
+ {
+  "n": 7,
+  "slot": "title",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip7_title_vip7_title_mw6io26b.png"
+ },
+ {
+  "n": 8,
+  "slot": "medal",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip8_medal_vip8_medal_mw6imzhj.webp"
+ },
+ {
+  "n": 8,
+  "slot": "title",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip8_title_vip8_title_mw6inaqa.png"
+ },
+ {
+  "n": 9,
+  "slot": "medal",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip9_medal_vip9_medal_mw6il57s.webp"
+ },
+ {
+  "n": 9,
+  "slot": "title",
+  "kind": "image",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/vip/vip9_title_vip9_title_mw6ilnke.png"
+ }
+]
