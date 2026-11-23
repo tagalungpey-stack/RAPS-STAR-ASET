@@ -58,5 +58,17 @@
   "cashback": false,
   "cbRate": 0,
   "cbPrice": 0
+ },
+ {
+  "id": "gift_romantic",
+  "name": "Romantic",
+  "emoji": "\ud83d\udc95",
+  "icon": "",
+  "price": 20000,
+  "mediaUrl": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/gift/gift_romantic.svga",
+  "mediaType": "svga",
+  "cashback": false,
+  "cbRate": 0,
+  "cbPrice": 0
  }
 ]
