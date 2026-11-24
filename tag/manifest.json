@@ -76,5 +76,11 @@
   "name": "Tag Official 13",
   "slot": "title",
   "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_13.png"
+ },
+ {
+  "id": "tag_official_14",
+  "name": "Official",
+  "slot": "title",
+  "url": "https://cdn.jsdelivr.net/gh/tagalungpey-stack/RAPS-STAR-ASET@main/tag/tag_official_banner.jpg"
  }
 ]
